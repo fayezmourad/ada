@@ -21,5 +21,6 @@ The data size should be manageable since we do not have too many features to loo
 - Nov 13th: Topic identification using different techniques present online such as tf-idf to identify the importance of a word which may include the topic. Use some third party libraries such as Fast Text to identify topics as well.
 - Nov 21st: Plot visuals of different topics with respect to time.
 
-# Questions for TAa
-- 
+# Questions for TA
+- Is the project substantial enough to be a final project for ADA?
+- Do you have any suggestions for a good topic identification approach or third party library ?
