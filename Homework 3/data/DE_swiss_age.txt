@@ -1,0 +1,80 @@
+Kanton	Altersklassen 15-24, 25-49, 50 und mehr		Metriken	Arbeitslosenquote	Registrierte Stellensuchende
+Zürich	1	15-24 Jahre		3.7	3849.0
+Zürich	2	25-49 Jahre		3.4	21271.0
+Zürich	3	50 und mehr		2.9	9036.0
+Bern	1	15-24 Jahre		2.8	2405.0
+Bern	2	25-49 Jahre		2.5	10493.0
+Bern	3	50 und mehr		2.2	5487.0
+Luzern	1	15-24 Jahre		2.1	897.0
+Luzern	2	25-49 Jahre		1.7	3761.0
+Luzern	3	50 und mehr		1.6	2098.0
+Uri	1	15-24 Jahre		0.5	24.0
+Uri	2	25-49 Jahre		0.5	139.0
+Uri	3	50 und mehr		0.7	94.0
+Schwyz	1	15-24 Jahre		1.6	229.0
+Schwyz	2	25-49 Jahre		1.6	1175.0
+Schwyz	3	50 und mehr		1.9	825.0
+Obwalden	1	15-24 Jahre		0.7	34.0
+Obwalden	2	25-49 Jahre		0.7	169.0
+Obwalden	3	50 und mehr		0.8	116.0
+Nidwalden	1	15-24 Jahre		0.9	46.0
+Nidwalden	2	25-49 Jahre		0.9	225.0
+Nidwalden	3	50 und mehr		1.2	165.0
+Glarus	1	15-24 Jahre		1.8	82.0
+Glarus	2	25-49 Jahre		1.7	371.0
+Glarus	3	50 und mehr		2.1	260.0
+Zug	1	15-24 Jahre		1.8	229.0
+Zug	2	25-49 Jahre		2.4	1518.0
+Zug	3	50 und mehr		2.3	868.0
+Freiburg	1	15-24 Jahre		3.2	1045.0
+Freiburg	2	25-49 Jahre		2.7	4742.0
+Freiburg	3	50 und mehr		2.5	2050.0
+Solothurn	1	15-24 Jahre		2.9	882.0
+Solothurn	2	25-49 Jahre		2.5	3653.0
+Solothurn	3	50 und mehr		2.6	2093.0
+Basel-Stadt	1	15-24 Jahre		4.4	547.0
+Basel-Stadt	2	25-49 Jahre		3.7	3372.0
+Basel-Stadt	3	50 und mehr		2.8	1249.0
+Basel-Landschaft	1	15-24 Jahre		3.2	607.0
+Basel-Landschaft	2	25-49 Jahre		2.8	3231.0
+Basel-Landschaft	3	50 und mehr		2.5	1702.0
+Schaffhausen	1	15-24 Jahre		3.8	361.0
+Schaffhausen	2	25-49 Jahre		3.1	1327.0
+Schaffhausen	3	50 und mehr		2.3	640.0
+Appenzell Ausserrhoden	1	15-24 Jahre		1.5	101.0
+Appenzell Ausserrhoden	2	25-49 Jahre		1.7	435.0
+Appenzell Ausserrhoden	3	50 und mehr		1.8	330.0
+Appenzell Innerrhoden	1	15-24 Jahre		1	18.0
+Appenzell Innerrhoden	2	25-49 Jahre		0.5	42.0
+Appenzell Innerrhoden	3	50 und mehr		0.9	42.0
+St. Gallen	1	15-24 Jahre		2.4	1489.0
+St. Gallen	2	25-49 Jahre		2.2	5825.0
+St. Gallen	3	50 und mehr		2.1	3049.0
+Graubünden	1	15-24 Jahre		1.4	285.0
+Graubünden	2	25-49 Jahre		1	1376.0
+Graubünden	3	50 und mehr		1	929.0
+Aargau	1	15-24 Jahre		3.3	1967.0
+Aargau	2	25-49 Jahre		3	8661.0
+Aargau	3	50 und mehr		2.7	4517.0
+Thurgau	1	15-24 Jahre		2.3	794.0
+Thurgau	2	25-49 Jahre		2	3101.0
+Thurgau	3	50 und mehr		2	1723.0
+Tessin	1	15-24 Jahre		5.2	1086.0
+Tessin	2	25-49 Jahre		2.9	4926.0
+Tessin	3	50 und mehr		3	2663.0
+Waadt	1	15-24 Jahre		4.3	2618.0
+Waadt	2	25-49 Jahre		4.6	15961.0
+Waadt	3	50 und mehr		3.6	6070.0
+Wallis	1	15-24 Jahre		3.3	1132.0
+Wallis	2	25-49 Jahre		2.8	4657.0
+Wallis	3	50 und mehr		2.5	2238.0
+Neuenburg	1	15-24 Jahre		6.1	907.0
+Neuenburg	2	25-49 Jahre		5.2	3808.0
+Neuenburg	3	50 und mehr		4.6	1635.0
+Genf	1	15-24 Jahre		4.6	1176.0
+Genf	2	25-49 Jahre		5.8	10817.0
+Genf	3	50 und mehr		4.1	3504.0
+Jura	1	15-24 Jahre		5.1	360.0
+Jura	2	25-49 Jahre		4.4	1322.0
+Jura	3	50 und mehr		4	693.0
+Gesamt				3	193624.0

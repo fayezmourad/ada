@@ -1,0 +1,236 @@
+Kanton	Nationalität	Altersklassen 15-24, 25-49, 50 und mehr		Metriken	Registrierte Stellensuchende
+Zürich	Ausländer	1	15-24 Jahre		1178
+Zürich	Ausländer	2	25-49 Jahre		11188
+Zürich	Ausländer	3	50 und mehr		3018
+Zürich	Ausländer	Gesamt			15384
+Zürich	Schweizer	1	15-24 Jahre		2671
+Zürich	Schweizer	2	25-49 Jahre		10083
+Zürich	Schweizer	3	50 und mehr		6018
+Zürich	Schweizer	Gesamt			18772
+Zürich	Gesamt				34156
+Bern	Ausländer	1	15-24 Jahre		722
+Bern	Ausländer	2	25-49 Jahre		4679
+Bern	Ausländer	3	50 und mehr		1458
+Bern	Ausländer	Gesamt			6859
+Bern	Schweizer	1	15-24 Jahre		1683
+Bern	Schweizer	2	25-49 Jahre		5814
+Bern	Schweizer	3	50 und mehr		4029
+Bern	Schweizer	Gesamt			11526
+Bern	Gesamt				18385
+Luzern	Ausländer	1	15-24 Jahre		306
+Luzern	Ausländer	2	25-49 Jahre		1925
+Luzern	Ausländer	3	50 und mehr		671
+Luzern	Ausländer	Gesamt			2902
+Luzern	Schweizer	1	15-24 Jahre		591
+Luzern	Schweizer	2	25-49 Jahre		1836
+Luzern	Schweizer	3	50 und mehr		1427
+Luzern	Schweizer	Gesamt			3854
+Luzern	Gesamt				6756
+Uri	Ausländer	1	15-24 Jahre		10
+Uri	Ausländer	2	25-49 Jahre		82
+Uri	Ausländer	3	50 und mehr		38
+Uri	Ausländer	Gesamt			130
+Uri	Schweizer	1	15-24 Jahre		14
+Uri	Schweizer	2	25-49 Jahre		57
+Uri	Schweizer	3	50 und mehr		56
+Uri	Schweizer	Gesamt			127
+Uri	Gesamt				257
+Schwyz	Ausländer	1	15-24 Jahre		92
+Schwyz	Ausländer	2	25-49 Jahre		636
+Schwyz	Ausländer	3	50 und mehr		299
+Schwyz	Ausländer	Gesamt			1027
+Schwyz	Schweizer	1	15-24 Jahre		137
+Schwyz	Schweizer	2	25-49 Jahre		539
+Schwyz	Schweizer	3	50 und mehr		526
+Schwyz	Schweizer	Gesamt			1202
+Schwyz	Gesamt				2229
+Obwalden	Ausländer	1	15-24 Jahre		8
+Obwalden	Ausländer	2	25-49 Jahre		99
+Obwalden	Ausländer	3	50 und mehr		37
+Obwalden	Ausländer	Gesamt			144
+Obwalden	Schweizer	1	15-24 Jahre		26
+Obwalden	Schweizer	2	25-49 Jahre		70
+Obwalden	Schweizer	3	50 und mehr		79
+Obwalden	Schweizer	Gesamt			175
+Obwalden	Gesamt				319
+Nidwalden	Ausländer	1	15-24 Jahre		18
+Nidwalden	Ausländer	2	25-49 Jahre		112
+Nidwalden	Ausländer	3	50 und mehr		42
+Nidwalden	Ausländer	Gesamt			172
+Nidwalden	Schweizer	1	15-24 Jahre		28
+Nidwalden	Schweizer	2	25-49 Jahre		113
+Nidwalden	Schweizer	3	50 und mehr		123
+Nidwalden	Schweizer	Gesamt			264
+Nidwalden	Gesamt				436
+Glarus	Ausländer	1	15-24 Jahre		34
+Glarus	Ausländer	2	25-49 Jahre		213
+Glarus	Ausländer	3	50 und mehr		116
+Glarus	Ausländer	Gesamt			363
+Glarus	Schweizer	1	15-24 Jahre		48
+Glarus	Schweizer	2	25-49 Jahre		158
+Glarus	Schweizer	3	50 und mehr		144
+Glarus	Schweizer	Gesamt			350
+Glarus	Gesamt				713
+Zug	Ausländer	1	15-24 Jahre		85
+Zug	Ausländer	2	25-49 Jahre		810
+Zug	Ausländer	3	50 und mehr		322
+Zug	Ausländer	Gesamt			1217
+Zug	Schweizer	1	15-24 Jahre		144
+Zug	Schweizer	2	25-49 Jahre		708
+Zug	Schweizer	3	50 und mehr		546
+Zug	Schweizer	Gesamt			1398
+Zug	Gesamt				2615
+Freiburg	Ausländer	1	15-24 Jahre		452
+Freiburg	Ausländer	2	25-49 Jahre		2413
+Freiburg	Ausländer	3	50 und mehr		704
+Freiburg	Ausländer	Gesamt			3569
+Freiburg	Schweizer	1	15-24 Jahre		593
+Freiburg	Schweizer	2	25-49 Jahre		2329
+Freiburg	Schweizer	3	50 und mehr		1346
+Freiburg	Schweizer	Gesamt			4268
+Freiburg	Gesamt				7837
+Solothurn	Ausländer	1	15-24 Jahre		328
+Solothurn	Ausländer	2	25-49 Jahre		1894
+Solothurn	Ausländer	3	50 und mehr		705
+Solothurn	Ausländer	Gesamt			2927
+Solothurn	Schweizer	1	15-24 Jahre		554
+Solothurn	Schweizer	2	25-49 Jahre		1759
+Solothurn	Schweizer	3	50 und mehr		1388
+Solothurn	Schweizer	Gesamt			3701
+Solothurn	Gesamt				6628
+Basel-Stadt	Ausländer	1	15-24 Jahre		208
+Basel-Stadt	Ausländer	2	25-49 Jahre		1977
+Basel-Stadt	Ausländer	3	50 und mehr		534
+Basel-Stadt	Ausländer	Gesamt			2719
+Basel-Stadt	Schweizer	1	15-24 Jahre		339
+Basel-Stadt	Schweizer	2	25-49 Jahre		1395
+Basel-Stadt	Schweizer	3	50 und mehr		715
+Basel-Stadt	Schweizer	Gesamt			2449
+Basel-Stadt	Gesamt				5168
+Basel-Landschaft	Ausländer	1	15-24 Jahre		189
+Basel-Landschaft	Ausländer	2	25-49 Jahre		1596
+Basel-Landschaft	Ausländer	3	50 und mehr		503
+Basel-Landschaft	Ausländer	Gesamt			2288
+Basel-Landschaft	Schweizer	1	15-24 Jahre		418
+Basel-Landschaft	Schweizer	2	25-49 Jahre		1635
+Basel-Landschaft	Schweizer	3	50 und mehr		1199
+Basel-Landschaft	Schweizer	Gesamt			3252
+Basel-Landschaft	Gesamt				5540
+Schaffhausen	Ausländer	1	15-24 Jahre		131
+Schaffhausen	Ausländer	2	25-49 Jahre		726
+Schaffhausen	Ausländer	3	50 und mehr		265
+Schaffhausen	Ausländer	Gesamt			1122
+Schaffhausen	Schweizer	1	15-24 Jahre		230
+Schaffhausen	Schweizer	2	25-49 Jahre		601
+Schaffhausen	Schweizer	3	50 und mehr		375
+Schaffhausen	Schweizer	Gesamt			1206
+Schaffhausen	Gesamt				2328
+Appenzell Ausserrhoden	Ausländer	1	15-24 Jahre		29
+Appenzell Ausserrhoden	Ausländer	2	25-49 Jahre		192
+Appenzell Ausserrhoden	Ausländer	3	50 und mehr		85
+Appenzell Ausserrhoden	Ausländer	Gesamt			306
+Appenzell Ausserrhoden	Schweizer	1	15-24 Jahre		72
+Appenzell Ausserrhoden	Schweizer	2	25-49 Jahre		243
+Appenzell Ausserrhoden	Schweizer	3	50 und mehr		245
+Appenzell Ausserrhoden	Schweizer	Gesamt			560
+Appenzell Ausserrhoden	Gesamt				866
+Appenzell Innerrhoden	Ausländer	1	15-24 Jahre		8
+Appenzell Innerrhoden	Ausländer	2	25-49 Jahre		17
+Appenzell Innerrhoden	Ausländer	3	50 und mehr		8
+Appenzell Innerrhoden	Ausländer	Gesamt			33
+Appenzell Innerrhoden	Schweizer	1	15-24 Jahre		10
+Appenzell Innerrhoden	Schweizer	2	25-49 Jahre		25
+Appenzell Innerrhoden	Schweizer	3	50 und mehr		34
+Appenzell Innerrhoden	Schweizer	Gesamt			69
+Appenzell Innerrhoden	Gesamt				102
+St. Gallen	Ausländer	1	15-24 Jahre		599
+St. Gallen	Ausländer	2	25-49 Jahre		3294
+St. Gallen	Ausländer	3	50 und mehr		1186
+St. Gallen	Ausländer	Gesamt			5079
+St. Gallen	Schweizer	1	15-24 Jahre		890
+St. Gallen	Schweizer	2	25-49 Jahre		2531
+St. Gallen	Schweizer	3	50 und mehr		1863
+St. Gallen	Schweizer	Gesamt			5284
+St. Gallen	Gesamt				10363
+Graubünden	Ausländer	1	15-24 Jahre		86
+Graubünden	Ausländer	2	25-49 Jahre		827
+Graubünden	Ausländer	3	50 und mehr		344
+Graubünden	Ausländer	Gesamt			1257
+Graubünden	Schweizer	1	15-24 Jahre		199
+Graubünden	Schweizer	2	25-49 Jahre		549
+Graubünden	Schweizer	3	50 und mehr		585
+Graubünden	Schweizer	Gesamt			1333
+Graubünden	Gesamt				2590
+Aargau	Ausländer	1	15-24 Jahre		789
+Aargau	Ausländer	2	25-49 Jahre		4823
+Aargau	Ausländer	3	50 und mehr		1668
+Aargau	Ausländer	Gesamt			7280
+Aargau	Schweizer	1	15-24 Jahre		1178
+Aargau	Schweizer	2	25-49 Jahre		3838
+Aargau	Schweizer	3	50 und mehr		2849
+Aargau	Schweizer	Gesamt			7865
+Aargau	Gesamt				15145
+Thurgau	Ausländer	1	15-24 Jahre		317
+Thurgau	Ausländer	2	25-49 Jahre		1774
+Thurgau	Ausländer	3	50 und mehr		704
+Thurgau	Ausländer	Gesamt			2795
+Thurgau	Schweizer	1	15-24 Jahre		477
+Thurgau	Schweizer	2	25-49 Jahre		1327
+Thurgau	Schweizer	3	50 und mehr		1019
+Thurgau	Schweizer	Gesamt			2823
+Thurgau	Gesamt				5618
+Tessin	Ausländer	1	15-24 Jahre		326
+Tessin	Ausländer	2	25-49 Jahre		2531
+Tessin	Ausländer	3	50 und mehr		1177
+Tessin	Ausländer	Gesamt			4034
+Tessin	Schweizer	1	15-24 Jahre		760
+Tessin	Schweizer	2	25-49 Jahre		2395
+Tessin	Schweizer	3	50 und mehr		1486
+Tessin	Schweizer	Gesamt			4641
+Tessin	Gesamt				8675
+Waadt	Ausländer	1	15-24 Jahre		936
+Waadt	Ausländer	2	25-49 Jahre		8712
+Waadt	Ausländer	3	50 und mehr		2518
+Waadt	Ausländer	Gesamt			12166
+Waadt	Schweizer	1	15-24 Jahre		1682
+Waadt	Schweizer	2	25-49 Jahre		7249
+Waadt	Schweizer	3	50 und mehr		3552
+Waadt	Schweizer	Gesamt			12483
+Waadt	Gesamt				24649
+Wallis	Ausländer	1	15-24 Jahre		454
+Wallis	Ausländer	2	25-49 Jahre		2411
+Wallis	Ausländer	3	50 und mehr		907
+Wallis	Ausländer	Gesamt			3772
+Wallis	Schweizer	1	15-24 Jahre		678
+Wallis	Schweizer	2	25-49 Jahre		2246
+Wallis	Schweizer	3	50 und mehr		1331
+Wallis	Schweizer	Gesamt			4255
+Wallis	Gesamt				8027
+Neuenburg	Ausländer	1	15-24 Jahre		260
+Neuenburg	Ausländer	2	25-49 Jahre		1836
+Neuenburg	Ausländer	3	50 und mehr		574
+Neuenburg	Ausländer	Gesamt			2670
+Neuenburg	Schweizer	1	15-24 Jahre		647
+Neuenburg	Schweizer	2	25-49 Jahre		1972
+Neuenburg	Schweizer	3	50 und mehr		1061
+Neuenburg	Schweizer	Gesamt			3680
+Neuenburg	Gesamt				6350
+Genf	Ausländer	1	15-24 Jahre		398
+Genf	Ausländer	2	25-49 Jahre		5780
+Genf	Ausländer	3	50 und mehr		1423
+Genf	Ausländer	Gesamt			7601
+Genf	Schweizer	1	15-24 Jahre		778
+Genf	Schweizer	2	25-49 Jahre		5037
+Genf	Schweizer	3	50 und mehr		2081
+Genf	Schweizer	Gesamt			7896
+Genf	Gesamt				15497
+Jura	Ausländer	1	15-24 Jahre		63
+Jura	Ausländer	2	25-49 Jahre		505
+Jura	Ausländer	3	50 und mehr		161
+Jura	Ausländer	Gesamt			729
+Jura	Schweizer	1	15-24 Jahre		297
+Jura	Schweizer	2	25-49 Jahre		817
+Jura	Schweizer	3	50 und mehr		532
+Jura	Schweizer	Gesamt			1646
+Jura	Gesamt				2375
+Gesamt					193624

@@ -1,0 +1,54 @@
+Kanton,Nationalität,Arbeitslosenquote
+Zürich,Ausländer,6
+Zürich,Schweizer,2.8
+Bern,Ausländer,6.5
+Bern,Schweizer,2
+Luzern,Ausländer,4.7
+Luzern,Schweizer,1.5
+Uri,Ausländer,4.2
+Uri,Schweizer,0.6
+Schwyz,Ausländer,3.9
+Schwyz,Schweizer,1.2
+Obwalden,Ausländer,3
+Obwalden,Schweizer,0.7
+Nidwalden,Ausländer,3.1
+Nidwalden,Schweizer,0.8
+Glarus,Ausländer,4.9
+Glarus,Schweizer,1.6
+Zug,Ausländer,4
+Zug,Schweizer,1.8
+Freiburg,Ausländer,5.8
+Freiburg,Schweizer,1.9
+Solothurn,Ausländer,5.9
+Solothurn,Schweizer,2.1
+Basel-Stadt,Ausländer,5.3
+Basel-Stadt,Schweizer,2.9
+Basel-Landschaft,Ausländer,5.4
+Basel-Landschaft,Schweizer,2.3
+Schaffhausen,Ausländer,6.4
+Schaffhausen,Schweizer,2.2
+Appenzell Ausserrhoden,Ausländer,3.9
+Appenzell Ausserrhoden,Schweizer,1.4
+Appenzell Innerrhoden,Ausländer,3.9
+Appenzell Innerrhoden,Schweizer,0.7
+St. Gallen,Ausländer,5.1
+St. Gallen,Schweizer,1.7
+Graubünden,Ausländer,4.6
+Graubünden,Schweizer,1
+Aargau,Ausländer,6.2
+Aargau,Schweizer,2.2
+Thurgau,Ausländer,4.9
+Thurgau,Schweizer,1.7
+Tessin,Ausländer,5.4
+Tessin,Schweizer,2.7
+Waadt,Ausländer,6.8
+Waadt,Schweizer,3.6
+Wallis,Ausländer,8.2
+Wallis,Schweizer,2.5
+Neuenburg,Ausländer,9.1
+Neuenburg,Schweizer,4.5
+Genf,Ausländer,6.3
+Genf,Schweizer,4.9
+Jura,Ausländer,10.6
+Jura,Schweizer,3.5
+Gesamt,,3.3
