@@ -17,4 +17,4 @@ We will also make use of the Twitter dataset, which is available on the cluster.
 
 # Group members roles
 Fayez Mourad: problem formulation, text cleaning, experimenting with topic extraction methods, analysis of results, report
-Yamane El Zein:problem formulation, sentiment analysis, data wrangling, analysis of results, visualization, report
+Yamane El Zein:problem formulation, data acquisition, sentiment analysis, data wrangling, analysis of results, visualization, report
